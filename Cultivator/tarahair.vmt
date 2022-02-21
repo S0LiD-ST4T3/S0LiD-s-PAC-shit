@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+$model 1 
+	"$basetexture" "models/player/TaraAvaliPlayermodel/TaraHair"
+ //              "$bumpmap" "models/player/TaraAvaliPlayermodel/TaraHairN"
+
+$lightwarptexture "models/player/TaraAvaliPlayermodel/Pyro_lightwarp"
+
+
+}
+
+

@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/TaraAvaliPlayermodel/TaraAvali"
+                "$bumpmap"       "models/player/TaraAvaliPlayermodel/TaraAvali"
+                 "$model"                    "1"
+                 "$nocull" "1"
+}

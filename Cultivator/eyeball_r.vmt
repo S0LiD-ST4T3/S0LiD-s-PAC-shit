@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/player/TaraAvaliPlayermodel/eyeball_r"
+	"$iris" "models/player/TaraAvaliPlayermodel/pupil_r"
+	"$halflambert" 1
+}
