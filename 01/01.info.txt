@@ -1,0 +1,6 @@
+01 is a somewhat lazily rigged synth model that i'm using in PAC3...
+She will get some new revisions soon enough.
+
+Current revisions:
+
+REV0 - Testing compilation. Rough draft.
